@@ -1,0 +1,26 @@
+[
+    {
+        "account_id":"FBN2374858800",
+        "account_type":"savings",
+        "amount": 2000,
+        "date": "2024-08-15T12:00:002"
+    },
+    {
+        "account_id":"FBN2374858801",
+        "account_type":"current",
+        "amount": 3500,
+        "date": "2024-08-15T12:00:002"
+    },
+    {
+        "account_id":"FBN2374858800",
+        "account_type":"savings",
+        "amount": 1000,
+        "date": "2024-08-15T12:00:002"
+    },
+    {
+        "account_id":"FBN2374858801",
+        "account_type":"current",
+        "amount": 2700,
+        "date": "2024-08-15T12:00:002"
+    }
+]
